@@ -4,10 +4,10 @@ Custom-Css-Framework is a customizable, lightweight and easy to implement framew
 
 ## Installation
 1. Clone the repository:
-git@github.com:ARMANPREET2003/Custom-CSS-Framework.git
+https://github.com/ARMANPREET2003/Custom-CSS-Framework
 
-2. Navigate to the project folder:
+3. Navigate to the project folder:
 
-3. Compile the Sass files to generate the CSS:
+4. Compile the Sass files to generate the CSS:
 sass scss/main.scss dist/styles.css
 
