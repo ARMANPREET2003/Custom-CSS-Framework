@@ -1,0 +1,20 @@
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 1rem;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 4px;
+  background-color: $primary-color;
+  color: #fff;
+  border: none;
+  transition: background-color 0.3s;
+
+  &:hover {
+    background-color: scale-color($primary-color, $lightness: -10%);
+  }
+
+  &.secondary {
+    background-color: $secondary-color;
+  }
+}
